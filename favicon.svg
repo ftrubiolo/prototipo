@@ -1,0 +1,28 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_2)">
+<circle cx="64" cy="64" r="64" fill="white"/>
+<mask id="mask0_1_2" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="128" height="128">
+<circle cx="64" cy="64" r="60" stroke="black" stroke-width="8"/>
+<ellipse cx="33.0826" cy="57.8727" rx="11.5" ry="15" transform="rotate(-10.6887 33.0826 57.8727)" stroke="black" stroke-width="5"/>
+<ellipse cx="11.5" cy="15" rx="11.5" ry="15" transform="matrix(-0.982649 -0.185473 -0.185473 0.982649 108.165 45.2659)" stroke="black" stroke-width="5"/>
+<ellipse cx="11.5" cy="15" rx="11.5" ry="15" transform="matrix(-0.999555 -0.0298296 -0.0298296 0.999555 88.0249 24.2224)" stroke="black" stroke-width="5"/>
+<ellipse cx="51.9423" cy="39.3364" rx="11.5" ry="15" transform="rotate(-1.70936 51.9423 39.3364)" stroke="black" stroke-width="5"/>
+<ellipse cx="64.5" cy="49" rx="3.5" ry="4" fill="black"/>
+<circle cx="80" cy="57" r="4" fill="black"/>
+<circle cx="47.5" cy="58.5" r="3.5" fill="black"/>
+<path d="M32 90C32 99 42.2381 103.433 51.5 103.5C56.6253 103.537 58.8771 99.6609 64 99.5C69.6833 99.3215 71.5 103.5 78 103.5C84.5 103.5 96 99 96 90C96 81 86 72.5 85 71.5C84 70.5 74.8006 53.6253 64 53.5C53.0504 53.3729 49.3018 62.9183 42.5 71.5C37.34 78.0103 32 81 32 90Z" stroke="black" stroke-width="6"/>
+</mask>
+<g mask="url(#mask0_1_2)">
+<rect width="128" height="128" fill="url(#paint0_linear_1_2)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1_2" x1="128" y1="128" x2="0" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0EA5E9"/>
+<stop offset="1" stop-color="#22C55E"/>
+</linearGradient>
+<clipPath id="clip0_1_2">
+<rect width="128" height="128" fill="white"/>
+</clipPath>
+</defs>
+</svg>
